@@ -2,7 +2,6 @@ import re
 import sys
 import io
 
-
 def test_header_comments():
     """Test that student included author and date in header comments"""
     try:
